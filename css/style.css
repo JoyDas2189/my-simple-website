@@ -9,23 +9,44 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 .blog1{
-    background-color: tomato;
+    background-color: rgb(105, 43, 32);
     padding: 10px;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
+    font-size: large;
+    color: white; 
+}
+.blog1 h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 .blog2 {
-    background-color: aquamarine;
+    background-color: rgb(8, 65, 46);
     padding: 10px;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
+    font-size: large;
+    color: white; 
+}
+.blog2 h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 .blog3 {
-    background-color:bisque;
+    background-color:rgb(255, 141, 2);
     padding: 10px;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
+    font-size: large;
+    color: white; 
+}
+
+.blog3 h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
 }
